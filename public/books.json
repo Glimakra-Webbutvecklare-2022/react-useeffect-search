@@ -1,0 +1,7 @@
+{
+    "books": [
+        {"title": "Harry Potter: The Philosphers Stone", "description": "Magi och sånt", "author": "J.K Rowling"},
+        {"title": "The Art of War", "description": "gammal kinesisk krigskonst som inte lämpar sig till något annat", "author": "Zen Tzu"},
+        {"title": "Guldkompassen", "description": "Olika vadheterdet??? Inte världar men men.. Olika dimensioner!!!!! jag kom på det!", "author": "Philip Pullman"}
+    ]
+}
